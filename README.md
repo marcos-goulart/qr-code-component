@@ -10,8 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 A QR Code component
 ### Screenshot
@@ -21,8 +19,8 @@ A QR Code component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://marcos-goulart.github.io/qr-code-component/)
-- Live Site URL: [Add live site URL here](https://marcos-goulart.github.io/qr-code-component/)
+- Solution URL: [https://marcos-goulart.github.io/qr-code-component/](https://marcos-goulart.github.io/qr-code-component/)
+- Live Site URL: [https://marcos-goulart.github.io/qr-code-component/](https://marcos-goulart.github.io/qr-code-component/)
 
 ### Built with
 
@@ -35,5 +33,5 @@ A QR Code component
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/marcos-goulart)
+- Frontend Mentor - [Marcos Goulart](https://www.frontendmentor.io/profile/marcos-goulart)
 
