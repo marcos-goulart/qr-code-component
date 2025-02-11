@@ -19,7 +19,6 @@ A QR Code component
 
 ### Links
 
-- Solution URL: [https://marcos-goulart.github.io/qr-code-component/](https://marcos-goulart.github.io/qr-code-component/)
 - Live Site URL: [https://marcos-goulart.github.io/qr-code-component/](https://marcos-goulart.github.io/qr-code-component/)
 
 ### Built with
